@@ -1,0 +1,13 @@
+plugins {
+    id 'java'
+}
+
+group 'ru.iteco.uml'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+}
